@@ -1,4 +1,4 @@
-# 👋 Hi, I'm thngza
+# 👋 Hi, I'm Nara
 
 Welcome to my GitHub profile!  
 I'm an aspiring Java backend developer on a journey of continuous learning and growth.
